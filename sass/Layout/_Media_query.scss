@@ -1,0 +1,44 @@
+// media queries for responsive design
+
+/* Mediaquery to customize the container on all devices  */
+/* Extra small */
+@media (max-width: 575px) {
+    .container {
+        width: 100%;
+    }
+}
+
+/* small small */
+@media (min-width: 576px) {
+    .container {
+        width: 540px;
+    }
+}
+
+/* Medium Screen */
+@media (min-width: 768px) {
+    .container {
+        width: 720px;
+    }
+}
+
+/* Large Screens */
+@media (min-width: 992px) {
+    .container {
+        width: 960px;
+    }
+}
+
+/* XLarge Screens */
+@media (min-width: 1200px) {
+    .container {
+        width: 1140px;
+    }
+}
+
+/* 2Xlarge screens */
+@media (min-width: 1400px) {
+    .container {
+        width: 1320px;
+    }
+}
