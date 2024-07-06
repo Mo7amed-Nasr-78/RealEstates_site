@@ -17,7 +17,7 @@
 
     .overlay {
         height: calc(100vh - 60px);
-        background: center/cover no-repeat url(../images/Contact_BG.png);
+        background: center no-repeat url(/images/Contact_BG.png);
         position: relative;
 
         &::before {
