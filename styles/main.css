@@ -1434,7 +1434,7 @@ header .container .burger_icon:hover span {
 }
 .contact .overlay {
   height: calc(100vh - 60px);
-  background: center no-repeat url(../images/Contact_BG.png);
+  background: center no-repeat url(../Images/Contact_BG.png);
   position: relative;
 }
 .contact .overlay::before {
